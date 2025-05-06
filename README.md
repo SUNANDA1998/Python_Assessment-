@@ -39,7 +39,13 @@ To generate monthly billing summaries from a list of items based on their active
 
      * `line_items`: Grouped billing data for each active item.
      * `total_revenue`: Sum of all grouped charges.
-
+•  Groups items with similar attributes and sums their total charge.
+•  Outputs a summary bill showing:
+•	Each item group
+•	Quantity used
+•	Billing period
+•	Amount charged
+________________________________________
 ---
 
 ### 📅 Target Month Example:
@@ -78,12 +84,6 @@ print(result)
 
 ---
 ________________________________________
-•  Groups items with similar attributes and sums their total charge.
-•  Outputs a summary bill showing:
-•	Each item group
-•	Quantity used
-•	Billing period
-•	Amount charged
-________________________________________
+
 
 ```
