@@ -45,7 +45,7 @@ To generate monthly billing summaries from a list of items based on their active
 •	Quantity used
 •	Billing period
 •	Amount charged
-________________________________________
+
 ---
 
 ### 📅 Target Month Example:
